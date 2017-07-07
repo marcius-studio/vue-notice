@@ -11,7 +11,7 @@ Import notice.js in the main project file
 import './notice.js'
 ```
 Download the latest version of styles: [noty.css](https://github.com/needim/noty/blob/master/lib/noty.css)
-```
+```css
 @import './noty.css';
 ```
 ## Usage
