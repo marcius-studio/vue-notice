@@ -1,5 +1,5 @@
 # vue-notice
-Vue.js non-blocking notifications, based on noty.js
+Vue.js plugin accessible globally from any component to run non-blocking notifications. Based on [noty.js](http://ned.im/noty/) UI library.
 
 # Installation
 More installation options on [noty.js](http://ned.im/noty/)
