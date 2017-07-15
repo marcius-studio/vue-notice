@@ -6,9 +6,12 @@ More installation options on [noty.js](http://ned.im/noty/)
 ```
 $ npm install noty
 ```
-Import notice.js in the main project file
+Import vue-notice.js in the main project file
 ```js
-import './notice.js'
+import Vue from 'vue'
+import VueNotice from './vue-notice'
+
+Vue.use(VueNotice)
 ```
 Download the latest version of styles: [noty.css](https://github.com/needim/noty/blob/master/lib/noty.css)
 ```css
