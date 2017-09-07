@@ -26,7 +26,7 @@ Download the latest version of styles: [noty.css](https://github.com/needim/noty
 In your Vue.js components, simply call:
 
 ```js
-// Basic alert
+// Success alert
 this.$notice({
      type: 'success',  // alert, success, warning, error, info/information
      text: 'Some notification text' 
@@ -34,4 +34,3 @@ this.$notice({
 ```
 
 [Noty.js docs API. Click to see more](https://ned.im/noty/#/options)
-
