@@ -9,7 +9,7 @@ const options = {
 export default {
     install: (Vue, opts) => {
         Vue.prototype.$notice = function (data) {
-            return new Noty(Object.assign(options, data)).show()
+            return new Noty(Object.assign(options, opts, data)).show()
         }
     }
 }
