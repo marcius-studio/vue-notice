@@ -17,6 +17,13 @@ import VueNotice from './vue-notice'
 
 Vue.use(VueNotice)
 ```
+# Custom config 
+```
+Vue.use(VueNotice, {
+  timeout: 5000,
+  layout: 'topCenter'
+})
+```
 Download the latest version of styles: [noty.css](https://github.com/needim/noty/blob/master/lib/noty.css)
 ```css
 @import './noty.css';
