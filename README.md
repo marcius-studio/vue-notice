@@ -35,10 +35,10 @@ Vue.use(VueNotice, {
 
 ```scss
 // import base styles
-@import "~@marcius-studio/vue-notice/main.scss"; 
+@import "~@marcius-studio/vue-notice/static/main.scss"; 
 
 // import theme. Change "mint.scss" to another theme if nedded
-@import "~@marcius-studio/vue-notice/themes/mint.scss"; 
+@import "~@marcius-studio/vue-notice/static/themes/mint.scss"; 
 ```
 
 OR download the latest version of styles [noty.css](https://github.com/needim/noty/blob/master/lib/noty.css)
