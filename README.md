@@ -6,14 +6,14 @@ Vue.js non-blocking notifications, based on [Noty.js](https://ned.im/noty)
 
 ## How to start
 
-1. Install in your project
+1) Install in your project
 
 ```sh
 npm i @marcius-studio/vue-notice
 yarn add @marcius-studio/vue-notice
 ```
 
-2. Import as plugin. Full list [Noty API](https://ned.im/noty/#/options) options.
+2) Import as plugin. Full list [Noty API](https://ned.im/noty/#/options) options.
 
 ```js
 import Vue from 'vue'
@@ -31,7 +31,7 @@ Vue.use(VueNotice, {
 
 ```
 
-3. Connect theme styles to your project. Style depends on theme: `mint`, `sunset`, `relax` etc.
+3) Connect theme styles to your project. Style depends on theme: `mint`, `sunset`, `relax` etc.
 
 ```scss
 // import base styles
