@@ -1,0 +1,27 @@
+{
+  "name": "@marcius-studio/vue-notice",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcius-studio/vue-notice.git"
+  },
+  "keywords": [
+    "noty",
+    "notyjs",
+    "vue",
+    "vue-notice",
+    "notifications",
+    "notice"
+  ],
+  "author": "Nikita Marcius https://github.com/nikitamarcius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcius-studio/vue-notice/issues"
+  },
+  "homepage": "https://github.com/marcius-studio/vue-notice#readme",
+  "dependencies": {
+    "noty": "3.2.0-beta"
+  }
+}
