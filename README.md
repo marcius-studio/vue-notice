@@ -46,10 +46,10 @@ OR download the latest version of styles [noty.css](https://github.com/needim/no
 ## Usage
 
 ```js
-this.$notice.success('Success notice')   // green
-this.$notice.error('Success notice')     // red
-this.$notice.warning('Success notice')   // yellow
-this.$notice.info('Success notice')      // blue
+this.$notice.success('success notice')   // green
+this.$notice.error('error notice')     // red
+this.$notice.warning('warning notice')   // yellow
+this.$notice.info('info notice')      // blue
 ```
 
 Example with options. Same for `error`, `warning`, `info`.
